@@ -28,6 +28,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib.
 - [visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using Raylib & Flex.
 - [rlyeh](https://github.com/basp1/rlyeh), Simple and easy-to-use GUI API library for raylib-go.
+- [raycons](https://github.com/smthnspcl/raycons), Icons drawn by raylib.
 
 ### Softwares
 
