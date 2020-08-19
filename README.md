@@ -59,6 +59,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Coding a Breakout Arcade clone in C with Raylib](https://www.youtube.com/watch?v=UKecFbu61Oc)
 - [Graphics programming challenges by raysan5](https://github.com/raysan5/challenges)
 - [How to add hot reload to your raylib project (in C) ?](https://medium.com/@TheElkantor/how-to-add-hot-reload-to-your-raylib-proj-in-c-698caa33eb74)
+- [Raylib Game Tutorial : Space Invaders using VSCode](https://monsterbraininc.com/2018/12/raylib-game-tutorial-space-invaders-using-vscode)
 
 ### Resources and Links
 
