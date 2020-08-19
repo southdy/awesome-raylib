@@ -27,6 +27,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [nuklear_raylib](https://github.com/RobLoach/nuklear_raylib), Nuklear immediate mode GUI for raylib.
 - [zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib.
 - [visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using Raylib & Flex.
+- [rlyeh](https://github.com/basp1/rlyeh), Simple and easy-to-use GUI API library for raylib-go.
 
 ### Softwares
 
