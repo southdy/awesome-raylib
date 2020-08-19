@@ -25,5 +25,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [سلسلة تعلم برمجة الألعاب بسي شارب و جافا](https://www.youtube.com/playlist?list=PLZBVMzyySalXG0AdUHJj9rcpd0R7hBczR)
 - [How to create a game with 'raylib' in C by Viktor Fisac](https://www.youtube.com/watch?v=kBky9_X8j3Y)
 - [How to get started with Raylib 3.0 in C# - Tutorial](https://www.youtube.com/watch?v=SoXD5y24WQw)
+- [Let's learn D programming Game Dev!](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
+- [Coding a Breakout Arcade clone in C with Raylib](https://www.youtube.com/watch?v=UKecFbu61Oc)
 
 > Want to submit your awesome stuff, Make issue or pull request for that!
