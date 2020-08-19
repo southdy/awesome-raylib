@@ -46,6 +46,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [fedqx/GeldaEngine](https://github.com/fedqx/GeldaEngine), C raylib game engine.
 - [xdrie/rengfx](https://github.com/xdrie/rengfx), Lightweight, expressive, extensible 2D/3D game engine, Written in D.
 - [Rabios/raytaiko](https://github.com/Rabios/raytaiko), Simple Taiko no Tatsujin engine written in Lua using raylib,Via Astie Teddy's LuaJIT binding,Moddable with Lua.
+- [Rabios/raylua/tree/master/zerobrane](https://github.com/Rabios/raylua/tree/master/zerobrane), ZeroBrane Studio autocompletion for raylib Lua bindings.
 - [JhnBrunelle/Beam2D-Engine](https://github.com/JhnBrunelle/Beam2D-Engine), C++ ECS game engine based on Raylib and OpenGL.
 - [Guevara-chan/Midday-Commander](https://github.com/Guevara-chan/Midday-Commander), •Retrofuturistic file manager•, Written in Nim.
 - [hfabre/ttme](https://github.com/hfabre/ttme), Tiny tile map editor, Written in Go.
