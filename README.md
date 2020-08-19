@@ -16,11 +16,12 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [raylib](https://github.com/raysan5/raylib), Simple and easy-to-use library to enjoy videogames programming.
 - [raygui](https://github.com/raysan5/raygui), Simple and easy-to-use immediate-mode gui library.
 - [Physac](https://github.com/victorfisac/Physac), 2D physics header-only library for videogames developed in C using raylib library.
-- [rpng](https://github.com/raysan5/rpng), A simple and easy-to-use library to manage png chunks.
-- [raudio](https://github.com/raysan5/raudio), A simple and easy-to-use audio library based on miniaudio.
+- [rpng](https://github.com/raysan5/rpng), Simple and easy-to-use library to manage png chunks.
+- [raudio](https://github.com/raysan5/raudio), Simple and easy-to-use audio library based on miniaudio.
 
 ### Softwares
 
+- [rFXGen](https://github.com/raysan5/rfxgen), Simple and easy-to-use fx sounds generator.
 - [rPBR](https://github.com/victorfisac/rPBR), 3D model viewer with a physically based rendering (PBR) pipeline written in pure C. The PBR pipeline is written directly using OpenGL and the viewer uses raylib programming library for windows management, inputs and interface drawing.
 
 
