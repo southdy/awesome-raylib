@@ -33,6 +33,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Slixe/visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using Raylib & Flex.
 - [basp1/rlyeh](https://github.com/basp1/rlyeh), Simple and easy-to-use GUI API library for raylib-go, Written in Go.
 - [smthnspcl/raycons](https://github.com/smthnspcl/raycons), Icons drawn by raylib, Written in C++.
+- [smthnspcl/raygauge](https://github.com/smthnspcl/raygauge), Simple gauges to display values with raylib.
 
 ### Softwares
 
@@ -48,6 +49,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
 - [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
+- [RobLoach/raylib-meson](https://github.com/RobLoach/raylib-meson), raylib meson build system.
 - [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
 - [Cute Exporter by Clay Murray](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
 - [rTexPacker by raylib technologies](https://raylibtech.itch.io/rtexpacker), Simple and easy-to-use textures packer and font atlas generator.
@@ -82,7 +84,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [BitPuffin/zig-raylib-experiments](https://github.com/BitPuffin/zig-raylib-experiments), Some classic game implementations in Zig using raylib.
 - [MetlHedd/raylib-rs-examples](https://github.com/MetlHedd/raylib-rs-examples)
 - [DaNiKhan-GbR/Dnkvw-Raylib-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Example), Minimal example that demonstrates a possible usage of Dnkvw with Raylib. May change in time for more elaborate demonstrations. Breaking changes are expected.
-
+- [Demizdor/rlexp](https://github.com/Demizdor/rlexp), Experiments using the raylib library.
 
 ### Templates
 
