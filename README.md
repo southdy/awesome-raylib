@@ -10,6 +10,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Softwares](#softwares)
 - [Bindings](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
 - [Tutorials](#tutorials)
+- [Resources and Links](#resources-and-links)
 
 ### Libraries and Frameworks
 
@@ -56,5 +57,11 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Let's learn D programming Game Dev!](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
 - [Coding a Breakout Arcade clone in C with Raylib](https://www.youtube.com/watch?v=UKecFbu61Oc)
 - [Graphics programming challenges by raysan5](https://github.com/raysan5/challenges)
+
+### Resources and Links
+
+- [Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
+- [Examples](https://www.raylib.com/examples.html)
+- [Wiki](https://github.com/raysan5/raylib/wiki)
 
 > Want to submit your awesome stuff, Make issue or pull request for that!
