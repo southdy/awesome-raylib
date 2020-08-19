@@ -25,6 +25,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [rFXGen](https://github.com/raysan5/rfxgen), Simple and easy-to-use fx sounds generator.
 - [rPBR](https://github.com/victorfisac/rPBR), 3D model viewer with a physically based rendering (PBR) pipeline written in pure C. The PBR pipeline is written directly using OpenGL and the viewer uses raylib programming library for windows management, inputs and interface drawing.
 - [raylib-libretro](https://github.com/RobLoach/raylib-libretro), libretro frontend using raylib.
+- [FNode](https://github.com/victorfisac/FNode), Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW.
 - [RayTracer](https://github.com/MaximeHouis/RayTracer), Ray Tracer in C++ using raylib.
 - [rengfx](https://github.com/xdrie/rengfx), Lightweight, expressive, extensible 2D/3D game engine.
 - [music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
