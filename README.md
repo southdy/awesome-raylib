@@ -21,6 +21,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 ### Tutorials
 
 - [Raylib 2.0 Tutorial Series by SkyVaultGames](https://www.youtube.com/playlist?list=PL5gRzHmN4Dg3ubcneVFkHPm0mTGYTUHDn)
+- [List of raylib tutorials by HE360](https://www.youtube.com/playlist?list=PLZBVMzyySalVhcWEJcnG-HK8OXQli_tcV)
 - [سلسلة تعلم برمجة الألعاب بسي شارب و جافا](https://www.youtube.com/playlist?list=PLZBVMzyySalXG0AdUHJj9rcpd0R7hBczR)
 - [How to create a game with 'raylib' in C by Viktor Fisac](https://www.youtube.com/watch?v=kBky9_X8j3Y)
 - [How to get started with Raylib 3.0 in C# - Tutorial](https://www.youtube.com/watch?v=SoXD5y24WQw)
