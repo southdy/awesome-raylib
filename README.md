@@ -52,7 +52,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 
 - [Raylib 2.0 Tutorial Series](https://www.youtube.com/playlist?list=PL5gRzHmN4Dg3ubcneVFkHPm0mTGYTUHDn)
 - [List of raylib tutorials](https://www.youtube.com/playlist?list=PLZBVMzyySalVhcWEJcnG-HK8OXQli_tcV)
-- [سلسلة تعلم برمجة الألعاب بسي شارب و جافا](https://www.youtube.com/playlist?list=PLZBVMzyySalXG0AdUHJj9rcpd0R7hBczR)
+- [سلسلة تعلم برمجة الألعاب بسي شارب و جافا (ARABIC)](https://www.youtube.com/playlist?list=PLZBVMzyySalXG0AdUHJj9rcpd0R7hBczR)
 - [How to create a game with 'raylib' in C](https://www.youtube.com/watch?v=kBky9_X8j3Y)
 - [How to get started with Raylib 3.0 in C# - Tutorial](https://www.youtube.com/watch?v=SoXD5y24WQw)
 - [Let's learn D programming Game Dev!](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
@@ -62,6 +62,8 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Raylib Game Tutorial : Space Invaders using VSCode](https://monsterbraininc.com/2018/12/raylib-game-tutorial-space-invaders-using-vscode)
 - [raylib -- A C++ Game Library That's Perfect For Beginners](https://www.youtube.com/watch?v=xGPF3Gn-yhA)
 - [How to build & set up raylib for Visual studio](https://www.youtube.com/watch?v=mfj0JG2LdVM)
+- [Create Videos Games in PHP (With RayLib)](https://www.youtube.com/watch?v=q1X_6TYd030)
+- [Compiler Raylib sur Windows (FRENCH)](https://www.youtube.com/watch?v=XEpmMBM01Zg)
 
 ### Resources and Links
 
