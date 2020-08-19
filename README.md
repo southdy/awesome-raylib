@@ -12,6 +12,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Platforms supported by raylib](https://github.com/raysan5/raylib#building-raylib-on-multiple-platforms)
 - [Tutorials](#tutorials)
 - [Examples by community](#examples-by-community)
+- [Templates](#templates)
 - [Resources and Links](#resources-and-links)
 
 ### Libraries and Frameworks
@@ -76,7 +77,17 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 ### Examples by community
 
 - [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples), Collection of raylib code examples - For learning the C language with 2D and 3D games.
-- [raysan5/raylib-games](https://github.com/raysan5/raylib-games)
+- [raysan5/raylib-games](https://github.com/raysan5/raylib-games), raysan5's collection of games made with raylib.
+- [rillk500/Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev), Learn D programming language by creating games!
+- [BitPuffin/zig-raylib-experiments](https://github.com/BitPuffin/zig-raylib-experiments), Some classic game implementations in Zig using raylib.
+
+
+### Templates
+
+- [oswjk/raylib-imgui-template](https://github.com/oswjk/raylib-imgui-template), Basic raylib + Dear ImGui template.
+- []()
+- []()
+- []()
 
 ### Resources and Links
 
