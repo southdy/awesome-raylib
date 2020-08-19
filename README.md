@@ -14,6 +14,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 ### Libraries
 
 - [raylib](https://github.com/raysan5/raylib), Simple and easy-to-use library to enjoy videogames programming.
+- [rayfork](https://github.com/SasLuca/rayfork), Single header and source, cross-platform, allocator-aware, C99 game libraries.
 - [raygui](https://github.com/raysan5/raygui), Simple and easy-to-use immediate-mode gui library.
 - [Physac](https://github.com/victorfisac/Physac), 2D physics header-only library for videogames developed in C using raylib library.
 - [rpng](https://github.com/raysan5/rpng), Simple and easy-to-use library to manage png chunks.
