@@ -65,4 +65,4 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Examples](https://www.raylib.com/examples.html)
 - [Wiki](https://github.com/raysan5/raylib/wiki)
 
-> Want to submit your awesome stuff, Make issue or pull request for that!
+> Can't find your awesome stuff, Make issue or pull request for that!
