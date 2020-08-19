@@ -22,6 +22,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [ECSlib](https://github.com/firststef/ECSlib), Library with ECS classes in C++ using raylib.
 - [tbag](https://github.com/osom8979/tbag), Third party extension utility project.
 - [imgui-impl-raylib](https://github.com/oswjk/imgui-impl-raylib), Raylib backend for Dear ImGui.
+- [Libre](https://github.com/haydenhigg/Libre), Crystal graphics library that is built on Raylib.
 
 ### Softwares
 
