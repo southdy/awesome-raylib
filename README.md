@@ -96,6 +96,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [GheorgheMorari/RaylibCSGraphs](https://github.com/GheorgheMorari/RaylibCSGraphs), Practical implementation of Linear Transfromation, Written in C#.
 - [Sepheus/critter_comforts](https://github.com/Sepheus/critter_comforts), Source code of hit first game from legendary studio Vat O'Coffee. Coded from scratch in the space of a couple of days for the V&A Operas & Bridges GameJam, Written in D.
 - [DavinderMaverick/VoronoiDiagram](https://github.com/DavinderMaverick/VoronoiDiagram), Voronoi Diagrams using Fortune's Algo, Written in C++.
+- [apahl/corosim](https://github.com/apahl/corosim), Simple infection simulator, written in Swift using Raylib.
 
 ### Templates
 
