@@ -42,6 +42,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [RobLoach/raylib-libretro](https://github.com/RobLoach/raylib-libretro), libretro frontend using raylib.
 - [victorfisac/FNode](https://github.com/victorfisac/FNode), Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW.
 - [MaximeHouis/RayTracer](https://github.com/MaximeHouis/RayTracer), Ray Tracer in C++ using raylib.
+- [fedqx/GeldaEngine](https://github.com/fedqx/GeldaEngine), C raylib game engine.
 - [xdrie/rengfx](https://github.com/xdrie/rengfx), Lightweight, expressive, extensible 2D/3D game engine, Written in D.
 - [Rabios/raytaiko](https://github.com/Rabios/raytaiko), Simple Taiko no Tatsujin engine written in Lua using raylib,Via Astie Teddy's LuaJIT binding,Moddable with Lua.
 - [JhnBrunelle/Beam2D-Engine](https://github.com/JhnBrunelle/Beam2D-Engine), C++ ECS game engine based on Raylib and OpenGL.
@@ -89,7 +90,8 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [fr3fou/tic-tac-toe-ai](https://github.com/fr3fou/tic-tac-toe-ai), Tic-Tac-Toe implementation and AI, using Raylib for the GUI and Minimax + Alpha-Beta pruning for the AI.
 - [petuzk/raylib-line-triangulator](https://github.com/petuzk/raylib-line-triangulator), Line triangulation algorithm for raylib.
 - [rillk500/clang-game-dev](https://github.com/rillk500/clang-game-dev), Games created with C programming language.
-
+- [ThePituLegend/SmurfInvaders](https://github.com/ThePituLegend/SmurfInvaders), Technical Demo as an explorative project of Raylib. Random game based on Space Invaders and alike.
+- []()
 
 ### Templates
 
