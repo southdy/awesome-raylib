@@ -44,12 +44,13 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [MaximeHouis/RayTracer](https://github.com/MaximeHouis/RayTracer), Ray Tracer in C++ using raylib.
 - [xdrie/rengfx](https://github.com/xdrie/rengfx), Lightweight, expressive, extensible 2D/3D game engine, Written in D.
 - [Rabios/raytaiko](https://github.com/Rabios/raytaiko), Simple Taiko no Tatsujin engine written in Lua using raylib,Via Astie Teddy's LuaJIT binding,Moddable with Lua.
+- [JhnBrunelle/Beam2D-Engine](https://github.com/JhnBrunelle/Beam2D-Engine), C++ ECS game engine based on Raylib and OpenGL.
 - [Guevara-chan/Midday-Commander](https://github.com/Guevara-chan/Midday-Commander), •Retrofuturistic file manager•, Written in Nim.
 - [hfabre/ttme](https://github.com/hfabre/ttme), Tiny tile map editor, Written in go.
 - [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
 - [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
-- [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [RobLoach/raylib-meson](https://github.com/RobLoach/raylib-meson), raylib meson build system.
+- [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
 - [Cute Exporter by Clay Murray](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
 - [rTexPacker by raylib technologies](https://raylibtech.itch.io/rtexpacker), Simple and easy-to-use textures packer and font atlas generator.
@@ -87,6 +88,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Demizdor/rlexp](https://github.com/Demizdor/rlexp), Experiments using the raylib library.
 - [fr3fou/tic-tac-toe-ai](https://github.com/fr3fou/tic-tac-toe-ai), Tic-Tac-Toe implementation and AI, using Raylib for the GUI and Minimax + Alpha-Beta pruning for the AI.
 - [petuzk/raylib-line-triangulator](https://github.com/petuzk/raylib-line-triangulator), Line triangulation algorithm for raylib.
+- [rillk500/clang-game-dev](https://github.com/rillk500/clang-game-dev), Games created with C programming language.
 
 
 ### Templates
