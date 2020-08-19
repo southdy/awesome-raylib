@@ -47,7 +47,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Rabios/raytaiko](https://github.com/Rabios/raytaiko), Simple Taiko no Tatsujin engine written in Lua using raylib,Via Astie Teddy's LuaJIT binding,Moddable with Lua.
 - [JhnBrunelle/Beam2D-Engine](https://github.com/JhnBrunelle/Beam2D-Engine), C++ ECS game engine based on Raylib and OpenGL.
 - [Guevara-chan/Midday-Commander](https://github.com/Guevara-chan/Midday-Commander), •Retrofuturistic file manager•, Written in Nim.
-- [hfabre/ttme](https://github.com/hfabre/ttme), Tiny tile map editor, Written in go.
+- [hfabre/ttme](https://github.com/hfabre/ttme), Tiny tile map editor, Written in Go.
 - [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
 - [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
 - [RobLoach/raylib-meson](https://github.com/RobLoach/raylib-meson), raylib meson build system.
