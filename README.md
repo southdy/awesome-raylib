@@ -19,8 +19,9 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Physac](https://github.com/victorfisac/Physac), 2D physics header-only library for videogames developed in C using raylib library.
 - [rpng](https://github.com/raysan5/rpng), Simple and easy-to-use library to manage png chunks.
 - [raudio](https://github.com/raysan5/raudio), Simple and easy-to-use audio library based on miniaudio.
-- [ECSlib](https://github.com/firststef/ECSlib), Library with ECS classes in c++ using raylib.
+- [ECSlib](https://github.com/firststef/ECSlib), Library with ECS classes in C++ using raylib.
 - [tbag](https://github.com/osom8979/tbag), Third party extension utility project.
+- [imgui-impl-raylib](https://github.com/oswjk/imgui-impl-raylib), Raylib backend for Dear ImGui.
 
 ### Softwares
 
