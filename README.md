@@ -6,12 +6,12 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 
 ## List
 
-- [Libraries](#libraries)
+- [Libraries and Frameworks](#libraries-and-frameworks)
 - [Softwares](#softwares)
 - [Bindings](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
 - [Tutorials](#tutorials)
 
-### Libraries
+### Libraries and Frameworks
 
 - [raylib](https://github.com/raysan5/raylib), Simple and easy-to-use library to enjoy videogames programming.
 - [rayfork](https://github.com/SasLuca/rayfork), Single header and source, cross-platform, allocator-aware, C99 game libraries.
@@ -26,6 +26,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [TileMap](https://github.com/nezvers/TileMap), TileMap system for raylib.
 - [nuklear_raylib](https://github.com/RobLoach/nuklear_raylib), Nuklear immediate mode GUI for raylib.
 - [zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib.
+- [visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using Raylib & Flex.
 
 ### Softwares
 
