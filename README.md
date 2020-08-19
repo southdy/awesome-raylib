@@ -41,5 +41,6 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [How to get started with Raylib 3.0 in C# - Tutorial](https://www.youtube.com/watch?v=SoXD5y24WQw)
 - [Let's learn D programming Game Dev!](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
 - [Coding a Breakout Arcade clone in C with Raylib](https://www.youtube.com/watch?v=UKecFbu61Oc)
+- [Graphics programming challenges by raysan5](https://github.com/raysan5/challenges)
 
 > Want to submit your awesome stuff, Make issue or pull request for that!
