@@ -58,6 +58,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Let's learn D programming Game Dev!](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
 - [Coding a Breakout Arcade clone in C with Raylib](https://www.youtube.com/watch?v=UKecFbu61Oc)
 - [Graphics programming challenges by raysan5](https://github.com/raysan5/challenges)
+- [How to add hot reload to your raylib project (in C) ?](https://medium.com/@TheElkantor/how-to-add-hot-reload-to-your-raylib-proj-in-c-698caa33eb74)
 
 ### Resources and Links
 
