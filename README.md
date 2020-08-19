@@ -11,6 +11,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Bindings](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
 - [Platforms supported by raylib](https://github.com/raysan5/raylib#building-raylib-on-multiple-platforms)
 - [Tutorials](#tutorials)
+- [Examples by community](#examples-by-community)
 - [Resources and Links](#resources-and-links)
 
 ### Libraries and Frameworks
@@ -70,6 +71,10 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [How to build & set up raylib for Visual studio](https://www.youtube.com/watch?v=mfj0JG2LdVM)
 - [Create Videos Games in PHP (With RayLib)](https://www.youtube.com/watch?v=q1X_6TYd030)
 - [Compiler Raylib sur Windows (French)](https://www.youtube.com/watch?v=XEpmMBM01Zg)
+
+### Examples by community
+
+- [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples), Collection of raylib code examples - For learning the C language with 2D and 3D games.
 
 ### Resources and Links
 
