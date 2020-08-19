@@ -21,6 +21,8 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 
 ### Softwares
 
+- [rPBR](https://github.com/victorfisac/rPBR), 3D model viewer with a physically based rendering (PBR) pipeline written in pure C. The PBR pipeline is written directly using OpenGL and the viewer uses raylib programming library for windows management, inputs and interface drawing.
+
 
 ### Tutorials
 
