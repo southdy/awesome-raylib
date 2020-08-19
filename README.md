@@ -120,9 +120,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Complete Template for Raylib](http://bedroomcoders.co.uk/complete-template-for-raylib)
 - [3d Physics with raylib and ODE](http://bedroomcoders.co.uk/3d-physics-with-libray-and-ode)
 - [raylib adding a static terrain (ODE)](http://bedroomcoders.co.uk/raylib-adding-a-static-terrain-ode)
-- []()
-- []()
-- []()
+- [Creating a 64 bit executable with raylib on windows](http://bedroomcoders.co.uk/creating-a-64-bit-executable-with-raylib-on-windows)
+- [Aiming at moving targets…](http://bedroomcoders.co.uk/aiming-at-moving-targets)
+- [Aiming at 3d moving targets](http://bedroomcoders.co.uk/aiming-at-3d-moving-targets)
 - []()
 
 ### Resources and Links
