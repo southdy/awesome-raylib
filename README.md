@@ -15,36 +15,36 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 
 ### Libraries and Frameworks
 
-- [raylib](https://github.com/raysan5/raylib), Simple and easy-to-use library to enjoy videogames programming.
-- [rayfork](https://github.com/SasLuca/rayfork), Single header and source, cross-platform, allocator-aware, C99 game libraries.
-- [raygui](https://github.com/raysan5/raygui), Simple and easy-to-use immediate-mode gui library.
-- [Physac](https://github.com/victorfisac/Physac), 2D physics header-only library for videogames developed in C using raylib library.
-- [rpng](https://github.com/raysan5/rpng), Simple and easy-to-use library to manage png chunks.
-- [raudio](https://github.com/raysan5/raudio), Simple and easy-to-use audio library based on miniaudio.
-- [ECSlib](https://github.com/firststef/ECSlib), Library with ECS classes in C++ using raylib.
-- [tbag](https://github.com/osom8979/tbag), Third party extension utility project.
-- [imgui-impl-raylib](https://github.com/oswjk/imgui-impl-raylib), Raylib backend for Dear ImGui.
-- [Libre](https://github.com/haydenhigg/Libre), Crystal graphics library that is built on Raylib.
-- [TileMap](https://github.com/nezvers/TileMap), TileMap system for raylib.
+- [raysan5/raylib](https://github.com/raysan5/raylib), Simple and easy-to-use library to enjoy videogames programming.
+- [SasLuca/rayfork](https://github.com/SasLuca/rayfork), Single header and source, cross-platform, allocator-aware, C99 game libraries.
+- [raysan5/raygui](https://github.com/raysan5/raygui), Simple and easy-to-use immediate-mode gui library.
+- [victorfisac/Physac](https://github.com/victorfisac/Physac), 2D physics header-only library for videogames developed in C using raylib library.
+- [raysan5/rpng](https://github.com/raysan5/rpng), Simple and easy-to-use library to manage png chunks.
+- [raysan5/raudio](https://github.com/raysan5/raudio), Simple and easy-to-use audio library based on miniaudio.
+- [firststef/ECSlib](https://github.com/firststef/ECSlib), Library with ECS classes in C++ using raylib.
+- [osom8979/tbag](https://github.com/osom8979/tbag), Third party extension utility project.
+- [oswjk/imgui-impl-raylib](https://github.com/oswjk/imgui-impl-raylib), Raylib backend for Dear ImGui.
+- [haydenhigg/Libre](https://github.com/haydenhigg/Libre), Crystal graphics library that is built on Raylib.
+- [nezvers/TileMap](https://github.com/nezvers/TileMap), TileMap system for raylib.
 - [nuklear_raylib](https://github.com/RobLoach/nuklear_raylib), Nuklear immediate mode GUI for raylib.
-- [zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib, Written in go.
-- [visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using Raylib & Flex.
-- [rlyeh](https://github.com/basp1/rlyeh), Simple and easy-to-use GUI API library for raylib-go.
-- [raycons](https://github.com/smthnspcl/raycons), Icons drawn by raylib, Written in C++.
+- [RobLoach/zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib, Written in go.
+- [Slixe/visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using Raylib & Flex.
+- [basp1/rlyeh](https://github.com/basp1/rlyeh), Simple and easy-to-use GUI API library for raylib-go.
+- [smthnspcl/raycons](https://github.com/smthnspcl/raycons), Icons drawn by raylib, Written in C++.
 
 ### Softwares
 
-- [rFXGen](https://github.com/raysan5/rfxgen), Simple and easy-to-use fx sounds generator.
-- [rPBR](https://github.com/victorfisac/rPBR), 3D model viewer with a physically based rendering (PBR) pipeline written in pure C. The PBR pipeline is written directly using OpenGL and the viewer uses raylib programming library for windows management, inputs and interface drawing.
-- [raylib-libretro](https://github.com/RobLoach/raylib-libretro), libretro frontend using raylib.
-- [FNode](https://github.com/victorfisac/FNode), Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW.
-- [RayTracer](https://github.com/MaximeHouis/RayTracer), Ray Tracer in C++ using raylib.
-- [rengfx](https://github.com/xdrie/rengfx), Lightweight, expressive, extensible 2D/3D game engine.
-- [Midday-Commander](https://github.com/Guevara-chan/Midday-Commander), •Retrofuturistic file manager•
-- [ttme](https://github.com/hfabre/ttme), Tiny tile map editor.
-- [ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
-- [experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
-- [music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
+- [raysan5/rFXGen](https://github.com/raysan5/rfxgen), Simple and easy-to-use fx sounds generator.
+- [victorfisac/rPBR](https://github.com/victorfisac/rPBR), 3D model viewer with a physically based rendering (PBR) pipeline written in pure C. The PBR pipeline is written directly using OpenGL and the viewer uses raylib programming library for windows management, inputs and interface drawing.
+- [RobLoach/raylib-libretro](https://github.com/RobLoach/raylib-libretro), libretro frontend using raylib.
+- [victorfisac/FNode](https://github.com/victorfisac/FNode), Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW.
+- [MaximeHouis/RayTracer](https://github.com/MaximeHouis/RayTracer), Ray Tracer in C++ using raylib.
+- [xdrie/rengfx](https://github.com/xdrie/rengfx), Lightweight, expressive, extensible 2D/3D game engine, Written in D.
+- [Guevara-chan/Midday-Commander](https://github.com/Guevara-chan/Midday-Commander), •Retrofuturistic file manager•, Written in Nim.
+- [hfabre/ttme](https://github.com/hfabre/ttme), Tiny tile map editor, Written in go.
+- [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
+- [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
+- [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [MasterPlan](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
 - [Cute Exporter](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
 
