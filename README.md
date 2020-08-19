@@ -91,7 +91,10 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [petuzk/raylib-line-triangulator](https://github.com/petuzk/raylib-line-triangulator), Line triangulation algorithm for raylib.
 - [rillk500/clang-game-dev](https://github.com/rillk500/clang-game-dev), Games created with C programming language.
 - [ThePituLegend/SmurfInvaders](https://github.com/ThePituLegend/SmurfInvaders), Technical Demo as an explorative project of Raylib. Random game based on Space Invaders and alike.
-- []()
+- [riadafridishibly/recursive-sudoku-viz](https://github.com/riadafridishibly/recursive-sudoku-viz), Recursive sudoku solver visualizer in raylib.
+- [amazingchow/through-the-maze](https://github.com/amazingchow/through-the-maze), Through the maze based on raylib + genetic algorithm.
+- [GheorgheMorari/RaylibCSGraphs](https://github.com/GheorgheMorari/RaylibCSGraphs), Practical implementation of Linear Transfromation.
+- [Sepheus/critter_comforts](https://github.com/Sepheus/critter_comforts), Source code of hit first game from legendary studio Vat O'Coffee. Coded from scratch in the space of a couple of days for the V&A Operas & Bridges GameJam.
 
 ### Templates
 
