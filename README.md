@@ -41,6 +41,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [victorfisac/FNode](https://github.com/victorfisac/FNode), Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW.
 - [MaximeHouis/RayTracer](https://github.com/MaximeHouis/RayTracer), Ray Tracer in C++ using raylib.
 - [xdrie/rengfx](https://github.com/xdrie/rengfx), Lightweight, expressive, extensible 2D/3D game engine, Written in D.
+- [Rabios/raytaiko](https://github.com/Rabios/raytaiko), Simple Taiko no Tatsujin engine written in Lua using raylib,Via Astie Teddy's LuaJIT binding,Moddable with Lua.
 - [Guevara-chan/Midday-Commander](https://github.com/Guevara-chan/Midday-Commander), •Retrofuturistic file manager•, Written in Nim.
 - [hfabre/ttme](https://github.com/hfabre/ttme), Tiny tile map editor, Written in go.
 - [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
@@ -75,6 +76,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 ### Examples by community
 
 - [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples), Collection of raylib code examples - For learning the C language with 2D and 3D games.
+- [raysan5/raylib-games](https://github.com/raysan5/raylib-games)
 
 ### Resources and Links
 
