@@ -47,12 +47,12 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [MasterPlan](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
 - [Cute Exporter](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
-- [rTexPacker](https://raylibtech.itch.io/rtexpacker), Simple and easy-to-use textures packer and font atlas generator.
-- [rTexViewer](https://raylibtech.itch.io/rtexviewer), Simple and easy-to-use textures viewer and pixel formats converter.
-- [rIconPacker](https://raylibtech.itch.io/riconpacker), Simple and easy-to-use icons packer.
-- [rGuiStyler](https://raylibtech.itch.io/rguistyler), Simple and easy-to-use raygui styles editor.
-- [rGuiLayout](https://raylibtech.itch.io/rguilayout), Simple and easy-to-use raygui layouts editor.
-- [rGuiIcons](https://raylibtech.itch.io/rguiicons), Simple and easy-to-use raygui icons editor.
+- [rTexPacker by raylib technologies](https://raylibtech.itch.io/rtexpacker), Simple and easy-to-use textures packer and font atlas generator.
+- [rTexViewer by raylib technologies](https://raylibtech.itch.io/rtexviewer), Simple and easy-to-use textures viewer and pixel formats converter.
+- [rIconPacker by raylib technologies](https://raylibtech.itch.io/riconpacker), Simple and easy-to-use icons packer.
+- [rGuiStyler by raylib technologies](https://raylibtech.itch.io/rguistyler), Simple and easy-to-use raygui styles editor.
+- [rGuiLayout by raylib technologies](https://raylibtech.itch.io/rguilayout), Simple and easy-to-use raygui layouts editor.
+- [rGuiIcons by raylib technologies](https://raylibtech.itch.io/rguiicons), Simple and easy-to-use raygui icons editor.
 
 ### Tutorials
 
