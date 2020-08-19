@@ -52,7 +52,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
 - [RobLoach/raylib-meson](https://github.com/RobLoach/raylib-meson), raylib meson build system.
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
-- [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper), Application for sorting images based on related "types" of items in the pictures. Riley-Duper will output a hidden file that contains the pictures which are linked together. This can latter be used to generate invoices, and rename the files such that Windows Search finally finds a purpose for something, Written in Factor.
+- [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper), Application for sorting images based on related "types" of items in the pictures. Riley-Duper will output a hidden file that contains the pictures which are linked together.
 - [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
 - [Cute Exporter by Clay Murray](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
 - [rTexPacker by raylib technologies](https://raylibtech.itch.io/rtexpacker), Simple and easy-to-use textures packer and font atlas generator.
