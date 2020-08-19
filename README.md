@@ -130,17 +130,21 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [PhysFS and raylib](http://bedroomcoders.co.uk/physfs-and-raylib)
 - [Using libmpeg2 with RayLib](http://bedroomcoders.co.uk/using-libmpeg2-with-raylib)
 - [Aligning a model with a terrain (raylib)](http://bedroomcoders.co.uk/aligning-a-model-with-a-terrain-raylib)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [A simple maze creation algorithm (C99 and raylib)](http://bedroomcoders.co.uk/a-simple-maze-creation-algorithm-c99-and-raylib)
+- [Using RayLib with an ECS](http://bedroomcoders.co.uk/using-raylib-with-an-ecs)
+- [Animating sky with raylib](http://bedroomcoders.co.uk/animating-sky-with-raylib)
+- [raylib Fog](http://bedroomcoders.co.uk/raylib-fog)
+- [Sprite Sheets with RayLib](http://bedroomcoders.co.uk/sprite-sheets-with-raylib)
+- [Shaders with raylib](http://bedroomcoders.co.uk/shaders-with-raylib)
+- [Lighting with raylib](http://bedroomcoders.co.uk/lighting-with-raylib)
+- [2D Spotlight shader with RayLib](http://bedroomcoders.co.uk/2d-spotlight-shader-with-raylib)
+- [Implementing a 3d GUI with raylib](http://bedroomcoders.co.uk/implementing-a-3d-gui-with-raylib)
 
 ### Resources and Links
 
 - [Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
 - [Examples](https://www.raylib.com/examples.html)
 - [Wiki](https://github.com/raysan5/raylib/wiki)
+- [raylib on Wikipedia](https://en.wikipedia.org/wiki/Raylib)
 
 > Can't find your awesome stuff, Make issue or pull request for that!
