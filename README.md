@@ -84,7 +84,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games), raysan5's collection of games made with raylib.
 - [rillk500/Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev), Learn D programming language by creating games!
 - [BitPuffin/zig-raylib-experiments](https://github.com/BitPuffin/zig-raylib-experiments), Some classic game implementations in Zig using raylib.
-- [MetlHedd/raylib-rs-examples](https://github.com/MetlHedd/raylib-rs-examples)
+- [MetlHedd/raylib-rs-examples](https://github.com/MetlHedd/raylib-rs-examples), Collection of raylib examples written in Rust using raylib-rs.
 - [DaNiKhan-GbR/Dnkvw-Raylib-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Example), Minimal example that demonstrates a possible usage of Dnkvw with Raylib. May change in time for more elaborate demonstrations. Breaking changes are expected.
 - [Demizdor/rlexp](https://github.com/Demizdor/rlexp), Experiments using the raylib library.
 - [fr3fou/tic-tac-toe-ai](https://github.com/fr3fou/tic-tac-toe-ai), Tic-Tac-Toe implementation and AI, using Raylib for the GUI and Minimax + Alpha-Beta pruning for the AI.
