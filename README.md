@@ -87,7 +87,7 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 ### Templates
 
 - [oswjk/raylib-imgui-template](https://github.com/oswjk/raylib-imgui-template), Basic raylib + Dear ImGui template.
-- [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame)
+- [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame), Sample C++ project setup with raylib for Visual Studio 2017.
 - [DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example), Minimal example that demonstrates the usage of Dnkvw with Raylib. It can be used as a project template.
 - []()
 
