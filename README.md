@@ -85,13 +85,13 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [MetlHedd/raylib-rs-examples](https://github.com/MetlHedd/raylib-rs-examples)
 - [DaNiKhan-GbR/Dnkvw-Raylib-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Example), Minimal example that demonstrates a possible usage of Dnkvw with Raylib. May change in time for more elaborate demonstrations. Breaking changes are expected.
 - [Demizdor/rlexp](https://github.com/Demizdor/rlexp), Experiments using the raylib library.
+- [fr3fou/tic-tac-toe-ai](https://github.com/fr3fou/tic-tac-toe-ai), Tic-Tac-Toe implementation and AI, using Raylib for the GUI and Minimax + Alpha-Beta pruning for the AI.
 
 ### Templates
 
 - [oswjk/raylib-imgui-template](https://github.com/oswjk/raylib-imgui-template), Basic raylib + Dear ImGui template.
 - [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame), Sample C++ project setup with raylib for Visual Studio 2017.
 - [DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example), Minimal example that demonstrates the usage of Dnkvw with Raylib. It can be used as a project template.
-- []()
 
 ### Resources and Links
 
