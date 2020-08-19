@@ -13,6 +13,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Tutorials](#tutorials)
 - [Examples by community](#examples-by-community)
 - [Templates](#templates)
+- [Articles](#articles)
 - [Resources and Links](#resources-and-links)
 
 ### Libraries and Frameworks
@@ -107,6 +108,22 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame), Sample C++ project setup with raylib for Visual Studio 2017.
 - [AIE-Seattle-Prog/raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp), Sample C# project setup with raylib-cs for Visual Studio 2017.
 - [DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example), Minimal example that demonstrates the usage of Dnkvw with Raylib. It can be used as a project template.
+
+### Articles
+
+- [raylib game coding library for C](http://bedroomcoders.co.uk/raylib-game-coding-library-for-c)
+- [raylib novices guide for creating a simple game](http://bedroomcoders.co.uk/raylib-a-novices-guide-for-creating-a-simple-game)
+- [Creating a simple game (part 2)](http://bedroomcoders.co.uk/creating-a-simple-game-part-2)
+- [Creating a simple game (part 3)](http://bedroomcoders.co.uk/creating-a-simple-game-part-3)
+- [Creating a simple game (part 4)](http://bedroomcoders.co.uk/creating-a-simple-game-part-4)
+- [Creating a simple game (part 5) finishing up](http://bedroomcoders.co.uk/creating-a-simple-game-part-5-finishing-up)
+- [Complete Template for Raylib](http://bedroomcoders.co.uk/complete-template-for-raylib)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ### Resources and Links
 
