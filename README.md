@@ -27,10 +27,10 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [Libre](https://github.com/haydenhigg/Libre), Crystal graphics library that is built on Raylib.
 - [TileMap](https://github.com/nezvers/TileMap), TileMap system for raylib.
 - [nuklear_raylib](https://github.com/RobLoach/nuklear_raylib), Nuklear immediate mode GUI for raylib.
-- [zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib.
+- [zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib, Written in go.
 - [visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using Raylib & Flex.
 - [rlyeh](https://github.com/basp1/rlyeh), Simple and easy-to-use GUI API library for raylib-go.
-- [raycons](https://github.com/smthnspcl/raycons), Icons drawn by raylib.
+- [raycons](https://github.com/smthnspcl/raycons), Icons drawn by raylib, Written in C++.
 
 ### Softwares
 
