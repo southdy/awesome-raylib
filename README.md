@@ -80,13 +80,15 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games), raysan5's collection of games made with raylib.
 - [rillk500/Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev), Learn D programming language by creating games!
 - [BitPuffin/zig-raylib-experiments](https://github.com/BitPuffin/zig-raylib-experiments), Some classic game implementations in Zig using raylib.
+- [MetlHedd/raylib-rs-examples](https://github.com/MetlHedd/raylib-rs-examples)
+- [DaNiKhan-GbR/Dnkvw-Raylib-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Example), Minimal example that demonstrates a possible usage of Dnkvw with Raylib. May change in time for more elaborate demonstrations. Breaking changes are expected.
 
 
 ### Templates
 
 - [oswjk/raylib-imgui-template](https://github.com/oswjk/raylib-imgui-template), Basic raylib + Dear ImGui template.
-- []()
-- []()
+- [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame)
+- [DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example), Minimal example that demonstrates the usage of Dnkvw with Raylib. It can be used as a project template.
 - []()
 
 ### Resources and Links
