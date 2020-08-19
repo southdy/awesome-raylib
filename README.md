@@ -45,8 +45,8 @@ A curated list of awesome stuff for [raylib](https://raylib.com), Simple and eas
 - [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
 - [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
-- [MasterPlan](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
-- [Cute Exporter](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
+- [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
+- [Cute Exporter by Clay Murray](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
 - [rTexPacker by raylib technologies](https://raylibtech.itch.io/rtexpacker), Simple and easy-to-use textures packer and font atlas generator.
 - [rTexViewer by raylib technologies](https://raylibtech.itch.io/rtexviewer), Simple and easy-to-use textures viewer and pixel formats converter.
 - [rIconPacker by raylib technologies](https://raylibtech.itch.io/riconpacker), Simple and easy-to-use icons packer.
