@@ -1,6 +1,6 @@
 # awesome-raylib
 
-> NOTES: It's still work in progress as i still add stuff, But it's readable.
+> NOTES: It's still work in progress as raylib updated and there is a lot of new stuff appears, But it's readable.
 
 A curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-to-use library to enjoy videogames programming.
 
