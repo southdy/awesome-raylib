@@ -53,6 +53,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
 - [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
 - [RobLoach/raylib-meson](https://github.com/RobLoach/raylib-meson), raylib meson build system.
+- [rfaile313/Raylib-Buildfiles](https://github.com/rfaile313/Raylib-Buildfiles), Simple Makefile that incorporates Raylib on OS: Windows && Platform: Desktop.
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper), Application for sorting images based on related "types" of items in the pictures. Riley-Duper will output a hidden file that contains the pictures which are linked together.
 - [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
@@ -102,6 +103,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Sepheus/critter_comforts](https://github.com/Sepheus/critter_comforts), Source code of hit first game from legendary studio Vat O'Coffee. Coded from scratch in the space of a couple of days for the V&A Operas & Bridges GameJam, Written in D.
 - [DavinderMaverick/VoronoiDiagram](https://github.com/DavinderMaverick/VoronoiDiagram), Voronoi Diagrams using Fortune's Algo, Written in C++.
 - [apahl/corosim](https://github.com/apahl/corosim), Simple infection simulator, written in Swift using Raylib.
+- [baylej/tmx](https://github.com/baylej/tmx), C tmx map loader have example uses raylib [here](https://github.com/baylej/tmx/tree/master/examples/raylib)!
 
 ### Templates
 
@@ -109,6 +111,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame), Sample C++ project setup with raylib for Visual Studio 2017.
 - [AIE-Seattle-Prog/raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp), Sample C# project setup with raylib-cs for Visual Studio 2017.
 - [DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example), Minimal example that demonstrates the usage of Dnkvw with Raylib. It can be used as a project template.
+- [krzosa/RaylibHotReloadTemplate](https://github.com/krzosa/RaylibHotReloadTemplate), Template for hot reload code in raylib.
 
 ### Articles
 
