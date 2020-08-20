@@ -120,6 +120,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [DavinderMaverick/VoronoiDiagram](https://github.com/DavinderMaverick/VoronoiDiagram), Voronoi Diagrams using Fortune's Algo, Written in C++.
 - [apahl/corosim](https://github.com/apahl/corosim), Simple infection simulator, written in Swift using Raylib.
 - [baylej/tmx](https://github.com/baylej/tmx), C tmx map loader have example uses raylib [here](https://github.com/baylej/tmx/tree/master/examples/raylib)!
+- [albertnadal/MandelbrotGoLang](https://github.com/albertnadal/MandelbrotGoLang), Distributed computing Mandelbrot implementation using GoLang, gRPC and RayLib.
 
 ### Templates
 
