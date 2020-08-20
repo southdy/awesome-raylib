@@ -9,7 +9,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [Softwares](#softwares)
 - [Bindings](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
-- [Deprecated/Outdated/Unknown bindings](#Deprecated/Outdated/Unknown-bindings)
+- [Deprecated/Outdated/Unknown bindings](#deprecatedoutdatedunknown-bindings)
 - [Platforms supported by raylib](https://github.com/raysan5/raylib#building-raylib-on-multiple-platforms)
 - [Tutorials](#tutorials)
 - [Examples by community](#examples-by-community)
