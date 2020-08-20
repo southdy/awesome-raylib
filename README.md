@@ -153,4 +153,4 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib website](https://raylib.com)
 - [raylib page on itch.io](https://https://raysan5.itch.io/raylib)
 
-> Can't find your awesome stuff, Make issue or pull request for that!
+> Can't find your awesome stuff? Make issue or pull request for that!
