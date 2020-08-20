@@ -168,6 +168,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib Official Wiki](https://github.com/raysan5/raylib/wiki)
 - [raylib on Wikipedia](https://en.wikipedia.org/wiki/Raylib)
 - [raylib website](https://raylib.com)
-- [raylib page on itch.io](https://https://raysan5.itch.io/raylib)
+- [raylib page on itch.io](https://raysan5.itch.io/raylib)
 
 > Can't find your awesome stuff? Make issue or pull request for that!
