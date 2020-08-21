@@ -15,6 +15,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Examples by community](#examples-by-community)
 - [Templates](#templates)
 - [Articles](#articles)
+- [What raylib uses?](#what-raylib-uses)
 - [Resources and Links](#resources-and-links)
 
 
@@ -160,6 +161,18 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Lighting with raylib](http://bedroomcoders.co.uk/lighting-with-raylib)
 - [2D Spotlight shader with RayLib](http://bedroomcoders.co.uk/2d-spotlight-shader-with-raylib)
 - [Implementing a 3d GUI with raylib](http://bedroomcoders.co.uk/implementing-a-3d-gui-with-raylib)
+
+### What raylib uses?
+
+- [glfw/glfw](https://github.com/glfw/glfw), multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input.
+- [Dav1dde/glad](https://github.com/Dav1dde/glad), Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+- [dr-soft/miniaudio](https://github.com/dr-soft/miniaudio), Single file audio playback and capture library written in C.
+- [nothings/stb](https://github.com/nothings/stb), stb single-file public domain libraries for C/C++.
+- [prideout/par](https://github.com/prideout/par), single-file C libraries from Philip Allan Rideout.
+- [syoyo/tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c), Header only tiny wavefront .obj loader in pure C99.
+- [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf), Single-file glTF 2.0 loader and writer written in C99.
+- [mackron/dr_libs](https://github.com/mackron/dr_libs), Single file audio decoding libraries for C/C++.
+- [kd7tck/jar](https://github.com/kd7tck/jar), Collection of reconstituted libraries, specifications and scripts. Each has been designed with ease of use in mind.
 
 ### Resources and Links
 
