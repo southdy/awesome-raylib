@@ -173,6 +173,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf), Single-file glTF 2.0 loader and writer written in C99.
 - [mackron/dr_libs](https://github.com/mackron/dr_libs), Single file audio decoding libraries for C/C++.
 - [kd7tck/jar](https://github.com/kd7tck/jar), Collection of reconstituted libraries, specifications and scripts. Each has been designed with ease of use in mind.
+- [KhronosGroup/OpenGL-Registry](https://github.com/KhronosGroup/OpenGL-Registry), OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry.
+- [Emscripten](https://emscripten.org), Toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins.
 
 ### Resources and Links
 
