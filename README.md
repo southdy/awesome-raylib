@@ -38,6 +38,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [basp1/rlyeh](https://github.com/basp1/rlyeh), Simple and easy-to-use GUI API library for raylib-go, Written in Go.
 - [smthnspcl/raycons](https://github.com/smthnspcl/raycons), Icons drawn by raylib, Written in C++.
 - [smthnspcl/raygauge](https://github.com/smthnspcl/raygauge), Simple gauges to display values with raylib.
+- [dbriemann/libpartikel](https://github.com/dbriemann/libpartikel), Simple particle system library made with and for raylib. Works as header only library.
+- [WEREMSOFT/spine-raylib-runtimes](https://github.com/WEREMSOFT/spine-raylib-runtimes), Raylib implementation of the C spine runtimes.
+- [WEREMSOFT/stl-loader-for-raylib](https://github.com/WEREMSOFT/stl-loader-for-raylib), STL loader for raylib, Allows to load 3dPrinter file types into raylib. 
 
 ### Softwares
 
@@ -130,6 +133,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [AIE-Seattle-Prog/raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp), Sample C# project setup with raylib-cs for Visual Studio 2017.
 - [DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example), Minimal example that demonstrates the usage of Dnkvw with Raylib. It can be used as a project template.
 - [krzosa/RaylibHotReloadTemplate](https://github.com/krzosa/RaylibHotReloadTemplate), Template for hot reload code in raylib.
+- [WEREMSOFT/c99-raylib-template](https://github.com/WEREMSOFT/c99-raylib-template), Starting template to work with raylib, Uses make for build.
+- [WEREMSOFT/c99-raylib-cimgui-template](https://github.com/WEREMSOFT/c99-raylib-cimgui-template), Simple template to integrate raylib with imgui on C99, Uses cimgui bindings.
+- [WEREMSOFT/raylib-network-template](https://github.com/WEREMSOFT/raylib-network-template), Kinda serverless multiplayer template. It can be used to make a very basic multiplayer game.
 
 ### Articles
 
