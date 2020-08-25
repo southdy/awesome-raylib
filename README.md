@@ -63,6 +63,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [rfaile313/Raylib-Buildfiles](https://github.com/rfaile313/Raylib-Buildfiles), Simple Makefile that incorporates Raylib on OS: Windows && Platform: Desktop.
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper), Application for sorting images based on related "types" of items in the pictures. Riley-Duper will output a hidden file that contains the pictures which are linked together.
+- [WEREMSOFT/c99-raylib-vide-player](https://github.com/WEREMSOFT/c99-raylib-vide-player), Videoplayer using raylib. Play unsuported video format by the browser in the broswer.
 - [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
 - [Cute Exporter by Clay Murray](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
 - [MySprite by TonyButDead](https://tonybutdead.itch.io/mysprite), Free pixel art tool created in the Go programming language with raylib.
