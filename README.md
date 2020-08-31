@@ -79,7 +79,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 - [dtcristo/raylib-rust](https://github.com/dtcristo/raylib-rust), Rust bindings for raylib, a simple and easy-to-use library to learn videogames programming.
 
-> NOTES: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
+> NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
 ### Tutorials
 
@@ -119,6 +119,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [apahl/corosim](https://github.com/apahl/corosim), Simple infection simulator, written in Swift using Raylib.
 - [baylej/tmx](https://github.com/baylej/tmx), C tmx map loader have example uses raylib [here](https://github.com/baylej/tmx/tree/master/examples/raylib)!
 - [albertnadal/MandelbrotGoLang](https://github.com/albertnadal/MandelbrotGoLang), Distributed computing Mandelbrot implementation using GoLang, gRPC and RayLib.
+- [SasLuca/rayfork-tests](https://github.com/SasLuca/rayfork-tests), Collection of examples written in rayfork that also serve as tests.
 
 ### Templates
 
@@ -130,6 +131,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [WEREMSOFT/c99-raylib-template](https://github.com/WEREMSOFT/c99-raylib-template), Starting template to work with raylib, Uses make for build.
 - [WEREMSOFT/c99-raylib-cimgui-template](https://github.com/WEREMSOFT/c99-raylib-cimgui-template), Simple template to integrate raylib with imgui on C99, Uses cimgui bindings.
 - [WEREMSOFT/raylib-network-template](https://github.com/WEREMSOFT/raylib-network-template), Kinda serverless multiplayer template. It can be used to make a very basic multiplayer game.
+- [SasLuca/raylib-cmake-template](https://github.com/SasLuca/raylib-cmake-template), Very minimal project template for Raylib using CMake that works well in CLion & Visual Studio.
+- [SasLuca/rayfork-sokol-template](https://github.com/SasLuca/rayfork-sokol-template), Simple rayfork project template with sokol-app and CMake.
 
 ### Articles
 
