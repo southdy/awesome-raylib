@@ -78,6 +78,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Deprecated/Removed/Unknown bindings
 
 - [dtcristo/raylib-rust](https://github.com/dtcristo/raylib-rust), Rust bindings for raylib, a simple and easy-to-use library to learn videogames programming.
+- [Dacode45/rayfork-rs](https://github.com/Dacode45/rayfork-rs), Port of rayfork to rust.
 
 > NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
