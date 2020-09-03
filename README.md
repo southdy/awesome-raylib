@@ -103,6 +103,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [How to build & set up raylib for Visual studio](https://www.youtube.com/watch?v=mfj0JG2LdVM)
 - [Create Videos Games in PHP (With RayLib)](https://www.youtube.com/watch?v=q1X_6TYd030)
 - [Compiler Raylib sur Windows (French)](https://www.youtube.com/watch?v=XEpmMBM01Zg)
+- [Raylib setup on Codeblocks](https://www.youtube.com/watch?v=a2IUxJFr8sg)
+- [Tile maps en Raylib con Tileson](https://www.youtube.com/watch?v=Gq9sTaeHtj4)
 
 ### Examples by community
 
@@ -192,6 +194,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib Official Wiki](https://github.com/raysan5/raylib/wiki)
 - [raylib on Wikipedia](https://en.wikipedia.org/wiki/Raylib)
 - [raylib website](https://raylib.com)
+- [raylib YouTube channel](https://www.youtube.com/channel/UC8WIBkhYb5sBNqXO1mZ7WSQ)
 - [raylib page on itch.io](https://raysan5.itch.io/raylib)
 
 > Can't find your awesome stuff? Make issue or pull request for that!
