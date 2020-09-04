@@ -172,6 +172,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Lighting with raylib](http://bedroomcoders.co.uk/lighting-with-raylib)
 - [2D Spotlight shader with RayLib](http://bedroomcoders.co.uk/2d-spotlight-shader-with-raylib)
 - [Implementing a 3d GUI with raylib](http://bedroomcoders.co.uk/implementing-a-3d-gui-with-raylib)
+- [Creating Raspberry Pi applications with Raylib and Ruby (Part 1)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-fba3d35b2877)
+- [Creating Raspberry Pi applications with Raylib and Ruby (Part 2)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-part-ii-edc47680157b)
+- [Ubuntu 18.04 için Raylib kurulumu (Turkish)](https://medium.com/@msoygen/ubuntu-18-04-raylib-kurulumu-8ff9c4274b91)
 
 ### What raylib uses?
 
