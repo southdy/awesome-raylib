@@ -115,7 +115,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Create Videos Games in PHP (With RayLib)](https://www.youtube.com/watch?v=q1X_6TYd030)
 - [Compiler Raylib sur Windows (French)](https://www.youtube.com/watch?v=XEpmMBM01Zg)
 - [Raylib setup on Codeblocks](https://www.youtube.com/watch?v=a2IUxJFr8sg)
-- [Tile maps en Raylib con Tileson](https://www.youtube.com/watch?v=Gq9sTaeHtj4)
+- [Tile maps en Raylib con Tileson (Spanish)](https://www.youtube.com/watch?v=Gq9sTaeHtj4)
 
 ### Examples by community
 
