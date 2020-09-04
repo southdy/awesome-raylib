@@ -10,7 +10,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Softwares](#softwares)
 - [Bindings](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)
 - [Deprecated/Removed/Unknown bindings](#deprecatedremovedunknown-bindings)
-- [Libraries bindings](#libraries-bindings)
+- [Libraries bindings/ports](#libraries-bindingsports)
 - [Platforms supported by raylib](https://github.com/raysan5/raylib#building-raylib-on-multiple-platforms)
 - [Tutorials](#tutorials)
 - [Examples by community](#examples-by-community)
@@ -43,6 +43,12 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [dbriemann/libpartikel](https://github.com/dbriemann/libpartikel), Simple particle system library made with and for raylib. Works as header only library.
 - [WEREMSOFT/spine-raylib-runtimes](https://github.com/WEREMSOFT/spine-raylib-runtimes), Raylib implementation of the C spine runtimes.
 - [WEREMSOFT/stl-loader-for-raylib](https://github.com/WEREMSOFT/stl-loader-for-raylib), STL loader for raylib, Allows to load 3dPrinter file types into raylib. 
+- [tcfunk/raylib-nuklear](https://github.com/tcfunk/raylib-nuklear), Implementation of Nuklear for the raylib game engine.
+- [TheLumaio/Raylib-GBuffers](https://github.com/TheLumaio/Raylib-GBuffers), gbuffer implementation for raylib.
+- [tofuengine/tofu](https://github.com/tofuengine/tofu), Lightweight 2D framework with a lo-fi vibe, for fast game prototyping. Uses OpenGL through GLFW3. Scripted in Lua.
+- [Ferrohound/RaylibEX](https://github.com/Ferrohound/RaylibEX), Raylib Extra incorporates more basic functionality to Raylib while keeping the hands-on aspect!
+- [JusticeShultz/MathX](https://github.com/JusticeShultz/MathX), Detailed custom math library programmed in C++ by Justice Shultz that includes demos that uses raylib.
+- [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI), Just a simple UI using raylib (Can be used as library), Written in C#.
 
 ### Softwares
 
@@ -66,6 +72,11 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper), Application for sorting images based on related "types" of items in the pictures. Riley-Duper will output a hidden file that contains the pictures which are linked together.
 - [WEREMSOFT/c99-raylib-vide-player](https://github.com/WEREMSOFT/c99-raylib-vide-player), Videoplayer using raylib. Play unsuported video format by the browser in the broswer.
+- [TheLumaio/baslike-editor](https://github.com/TheLumaio/baslike-editor), Editor for baslike written in raylib.
+- [pkeckler/PACKER](https://github.com/pkeckler/PACKER), raylib asset packer.
+- [LesFarrell/Chip8](https://github.com/LesFarrell/Chip8), Chip8 Emulator / Interpreter using written using C and the Raylib library.
+- [athreef/Alien-raylib](https://github.com/athreef/Alien-raylib), Alien distribution for raylib video game engine.
+- [JusticeShultz/cpp-raylib-tilemap](https://github.com/JusticeShultz/cpp-raylib-tilemap), Source code for a runtime tile map tool in the C++ raylib library.
 - [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
 - [Cute Exporter by Clay Murray](https://powerc9000.itch.io/cute-asset-pipeline), The best PSD layers to PNG texture atlas exporter.
 - [MySprite by TonyButDead](https://tonybutdead.itch.io/mysprite), Free pixel art tool created in the Go programming language with raylib.
@@ -83,7 +94,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 > NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
-### Libraries bindings
+### Libraries bindings/ports
 
 - [Dacode45/rayfork-rs](https://github.com/Dacode45/rayfork-rs), Port of rayfork to rust.
 
@@ -128,6 +139,13 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [baylej/tmx](https://github.com/baylej/tmx), C tmx map loader have example uses raylib [here](https://github.com/baylej/tmx/tree/master/examples/raylib)!
 - [albertnadal/MandelbrotGoLang](https://github.com/albertnadal/MandelbrotGoLang), Distributed computing Mandelbrot implementation using GoLang, gRPC and RayLib.
 - [SasLuca/rayfork-tests](https://github.com/SasLuca/rayfork-tests), Collection of examples written in rayfork that also serve as tests.
+- [dtcristo/cray-examples](https://github.com/dtcristo/cray-examples), raylib examples ported to Crystal.
+- [OnACoffeeBreak/raylib_tiled_import_with_tmx](https://github.com/OnACoffeeBreak/raylib_tiled_import_with_tmx), Example of how to use Raylib to import and display a Tiled map editor file.
+- [RobLoach/raylib-meson-sample](https://github.com/RobLoach/raylib-meson-sample), Example of building a raylib application with Meson.
+- [MrOneTwo/Raylib-shaders](https://github.com/MrOneTwo/Raylib-shaders), Having fun with shaders.
+- [anatagawa/Demo-Paradox](https://github.com/anatagawa/Demo-Paradox), Demo with Raylib.
+- [anatagawa/Demo-Interpole](https://github.com/anatagawa/Demo-Interpole), Demo with Raylib.
+- [anatagawa/Demo-Awesome](https://github.com/anatagawa/Demo-Awesome), Demo with Raylib.
 
 ### Templates
 
@@ -141,6 +159,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [WEREMSOFT/raylib-network-template](https://github.com/WEREMSOFT/raylib-network-template), Kinda serverless multiplayer template. It can be used to make a very basic multiplayer game.
 - [SasLuca/raylib-cmake-template](https://github.com/SasLuca/raylib-cmake-template), Very minimal project template for Raylib using CMake that works well in CLion & Visual Studio.
 - [SasLuca/rayfork-sokol-template](https://github.com/SasLuca/rayfork-sokol-template), Simple rayfork project template with sokol-app and CMake.
+- [RaniSputnik/go-raylib-template](https://github.com/RaniSputnik/go-raylib-template), Starter template for building games with the Raylib Golang bindings. 
+- [Hidden-Pixel/raylib-starter-kit](https://github.com/Hidden-Pixel/raylib-starter-kit), This repository is to raylib starter kit to help get up and running quickly after installing MSVC, clang or gcc, and emcc.
+- [oswjk/rayskeleton](https://github.com/oswjk/rayskeleton), Skeleton project template for raylib. Uses CMake.
+- [braedenf/RaylibStarterProjectXcode](https://github.com/braedenf/RaylibStarterProjectXcode), Basic window implemented with raylib in XCode.
 
 ### Articles
 
@@ -175,6 +197,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Creating Raspberry Pi applications with Raylib and Ruby (Part 1)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-fba3d35b2877)
 - [Creating Raspberry Pi applications with Raylib and Ruby (Part 2)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-part-ii-edc47680157b)
 - [Ubuntu 18.04 için Raylib kurulumu (Turkish)](https://medium.com/@msoygen/ubuntu-18-04-raylib-kurulumu-8ff9c4274b91)
+- [raylib: 6 years of fun](https://gist.github.com/raysan5/04a2daf02aa2a6e79010331f77bf983f)
+- [rGuiIcons Making Of Diary](https://gist.github.com/raysan5/fe769f77b43b6c612600166498ce3640)
 
 ### What raylib uses?
 
