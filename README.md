@@ -121,6 +121,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 - [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples), Collection of raylib code examples - For learning the C language with 2D and 3D games.
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games), raysan5's collection of games made with raylib.
+- [Rabios/rayfork-games](https://github.com/Rabios/rayfork-games), Full port of raylib sample games to rayfork!
 - [rillk500/Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev), Learn D programming language by creating games!
 - [BitPuffin/zig-raylib-experiments](https://github.com/BitPuffin/zig-raylib-experiments), Some classic game implementations in Zig using raylib.
 - [MetlHedd/raylib-rs-examples](https://github.com/MetlHedd/raylib-rs-examples), Collection of raylib examples written in Rust using raylib-rs.
