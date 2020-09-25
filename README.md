@@ -223,6 +223,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib on Wikipedia](https://en.wikipedia.org/wiki/Raylib)
 - [raylib website](https://raylib.com)
 - [raylib YouTube channel](https://www.youtube.com/channel/UC8WIBkhYb5sBNqXO1mZ7WSQ)
+- [raylib Discord channel](https://discord.gg/VkzNHUE)
+- [raylib on Reddit](https://www.reddit.com/r/raylib)
+- [raylib on Handmade](https://raylib.handmade.network)
 - [raylib page on itch.io](https://raysan5.itch.io/raylib)
 
 > Can't find your awesome stuff? Make issue or pull request for that!
