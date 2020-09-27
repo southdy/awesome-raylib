@@ -147,6 +147,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [anatagawa/Demo-Paradox](https://github.com/anatagawa/Demo-Paradox), Demo with Raylib.
 - [anatagawa/Demo-Interpole](https://github.com/anatagawa/Demo-Interpole), Demo with Raylib.
 - [anatagawa/Demo-Awesome](https://github.com/anatagawa/Demo-Awesome), Demo with Raylib.
+- [nathhB/nbnet](https://github.com/nathhB/nbnet), nbnet is single header C network library to implement client-server network code for games, Has example for raylib can be found [here](https://github.com/nathhB/nbnet/tree/master/examples/raylib).
 
 ### Templates
 
