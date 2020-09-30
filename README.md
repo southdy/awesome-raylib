@@ -119,6 +119,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Examples by community
 
+- [WEREMSOFT/c99-raylib-car-physics](https://github.com/WEREMSOFT/c99-raylib-car-physics), Car physiscs made with raylib.
 - [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples), Collection of raylib code examples - For learning the C language with 2D and 3D games.
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games), raysan5's collection of games made with raylib.
 - [Rabios/rayfork-games](https://github.com/Rabios/rayfork-games), Full port of raylib sample games to rayfork!
