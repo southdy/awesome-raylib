@@ -49,6 +49,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Ferrohound/RaylibEX](https://github.com/Ferrohound/RaylibEX), Raylib Extra incorporates more basic functionality to Raylib while keeping the hands-on aspect!
 - [JusticeShultz/MathX](https://github.com/JusticeShultz/MathX), Detailed custom math library programmed in C++ by Justice Shultz that includes demos that uses raylib.
 - [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI), Just a simple UI using raylib (Can be used as library), Written in C#.
+- [QuantScientist/TorchRayLib](https://github.com/QuantScientist/TorchRayLib), CMake based integration of the RayLib library with the Libtorch C++ Deep Learning Library.
 
 ### Softwares
 
@@ -150,6 +151,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [anatagawa/Demo-Interpole](https://github.com/anatagawa/Demo-Interpole), Demo with Raylib.
 - [anatagawa/Demo-Awesome](https://github.com/anatagawa/Demo-Awesome), Demo with Raylib.
 - [nathhB/nbnet](https://github.com/nathhB/nbnet), nbnet is single header C network library to implement client-server network code for games, Has example for raylib can be found [here](https://github.com/nathhB/nbnet/tree/master/examples/raylib).
+- [edomin/Raygui_Helloworld](https://github.com/edomin/Raygui_Helloworld), Example of using Raygui library with tigr graphics library.
 
 ### Templates
 
