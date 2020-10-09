@@ -120,11 +120,14 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Examples by community
 
-- [WEREMSOFT/c99-raylib-car-physics](https://github.com/WEREMSOFT/c99-raylib-car-physics), Car physiscs made with raylib.
-- [WEREMSOFT/c99-raylib-shadowmap](https://github.com/WEREMSOFT/c99-raylib-shadowmap), Shadowmap implementation in raylib.
 - [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples), Collection of raylib code examples - For learning the C language with 2D and 3D games.
+- [ChrisDill/Raylib-cs-Examples](https://github.com/ChrisDill/Raylib-cs-Examples), C# examples for raylib-cs.
+- [SasLuca/rayfork-tests](https://github.com/SasLuca/rayfork-tests), Collection of examples written in rayfork that also serve as tests.
+- [dtcristo/cray-examples](https://github.com/dtcristo/cray-examples), raylib examples ported to Crystal.
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games), raysan5's collection of games made with raylib.
 - [Rabios/rayfork-games](https://github.com/Rabios/rayfork-games), Full port of raylib sample games to rayfork!
+- [WEREMSOFT/c99-raylib-car-physics](https://github.com/WEREMSOFT/c99-raylib-car-physics), Car physiscs made with raylib.
+- [WEREMSOFT/c99-raylib-shadowmap](https://github.com/WEREMSOFT/c99-raylib-shadowmap), Shadowmap implementation in raylib.
 - [rillk500/Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev), Learn D programming language by creating games!
 - [BitPuffin/zig-raylib-experiments](https://github.com/BitPuffin/zig-raylib-experiments), Some classic game implementations in Zig using raylib.
 - [MetlHedd/raylib-rs-examples](https://github.com/MetlHedd/raylib-rs-examples), Collection of raylib examples written in Rust using raylib-rs.
@@ -142,8 +145,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [apahl/corosim](https://github.com/apahl/corosim), Simple infection simulator, written in Swift using Raylib.
 - [baylej/tmx](https://github.com/baylej/tmx), C tmx map loader have example uses raylib [here](https://github.com/baylej/tmx/tree/master/examples/raylib)!
 - [albertnadal/MandelbrotGoLang](https://github.com/albertnadal/MandelbrotGoLang), Distributed computing Mandelbrot implementation using GoLang, gRPC and RayLib.
-- [SasLuca/rayfork-tests](https://github.com/SasLuca/rayfork-tests), Collection of examples written in rayfork that also serve as tests.
-- [dtcristo/cray-examples](https://github.com/dtcristo/cray-examples), raylib examples ported to Crystal.
 - [OnACoffeeBreak/raylib_tiled_import_with_tmx](https://github.com/OnACoffeeBreak/raylib_tiled_import_with_tmx), Example of how to use Raylib to import and display a Tiled map editor file.
 - [RobLoach/raylib-meson-sample](https://github.com/RobLoach/raylib-meson-sample), Example of building a raylib application with Meson.
 - [MrOneTwo/Raylib-shaders](https://github.com/MrOneTwo/Raylib-shaders), Having fun with shaders.
