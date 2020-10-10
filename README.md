@@ -76,6 +76,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [TheLumaio/baslike-editor](https://github.com/TheLumaio/baslike-editor), Editor for baslike written in raylib.
 - [pkeckler/PACKER](https://github.com/pkeckler/PACKER), raylib asset packer.
 - [LesFarrell/Chip8](https://github.com/LesFarrell/Chip8), Chip8 Emulator / Interpreter using written using C and the Raylib library.
+- [ralsina/cobra-py](https://github.com/ralsina/cobra-py), 80s-style Python environment.
 - [athreef/Alien-raylib](https://github.com/athreef/Alien-raylib), Alien distribution for raylib video game engine.
 - [JusticeShultz/cpp-raylib-tilemap](https://github.com/JusticeShultz/cpp-raylib-tilemap), Source code for a runtime tile map tool in the C++ raylib library.
 - [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan), easy-to-use graphical free-flow project management tool and idea board.
