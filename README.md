@@ -157,6 +157,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Templates
 
+- [inque/simple_raylib_template](https://gitlab.com/inque/simple_raylib_template), This is a simple Raylib boilerplate that can be used as a starting point for raylib, It has also utility to build for Web!
 - [oswjk/raylib-imgui-template](https://github.com/oswjk/raylib-imgui-template), Basic raylib + Dear ImGui template.
 - [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame), Sample C++ project setup with raylib for Visual Studio 2017.
 - [AIE-Seattle-Prog/raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp), Sample C# project setup with raylib-cs for Visual Studio 2017.
