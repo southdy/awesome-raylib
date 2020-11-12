@@ -25,6 +25,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raysan5/raylib](https://github.com/raysan5/raylib), Simple and easy-to-use library to enjoy videogames programming.
 - [SasLuca/rayfork](https://github.com/SasLuca/rayfork), Single header and source, cross-platform, allocator-aware, C99 game libraries.
 - [Rabios/rayport](https://github.com/Rabios/rayport), Awesome C99, Header-Only, rayfork wrapper for raylib!
+- [Rabios/rayutils](https://github.com/Rabios/rayutils), Single-Header library that extends raylib with some awesome functionality!
 - [raysan5/raygui](https://github.com/raysan5/raygui), Simple and easy-to-use immediate-mode gui library.
 - [victorfisac/Physac](https://github.com/victorfisac/Physac), 2D physics header-only library for videogames developed in C using raylib library.
 - [raysan5/rpng](https://github.com/raysan5/rpng), Simple and easy-to-use library to manage png chunks.
@@ -209,22 +210,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib: 6 years of fun](https://gist.github.com/raysan5/04a2daf02aa2a6e79010331f77bf983f)
 - [rGuiIcons Making Of Diary](https://gist.github.com/raysan5/fe769f77b43b6c612600166498ce3640)
 
-### What raylib uses?
-
-- [glfw/glfw](https://github.com/glfw/glfw), multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input.
-- [Dav1dde/glad](https://github.com/Dav1dde/glad), Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
-- [dr-soft/miniaudio](https://github.com/dr-soft/miniaudio), Single file audio playback and capture library written in C.
-- [nothings/stb](https://github.com/nothings/stb), stb single-file public domain libraries for C/C++.
-- [prideout/par](https://github.com/prideout/par), single-file C libraries from Philip Allan Rideout.
-- [syoyo/tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c), Header only tiny wavefront .obj loader in pure C99.
-- [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf), Single-file glTF 2.0 loader and writer written in C99.
-- [mackron/dr_libs](https://github.com/mackron/dr_libs), Single file audio decoding libraries for C/C++.
-- [kd7tck/jar](https://github.com/kd7tck/jar), Collection of reconstituted libraries, specifications and scripts. Each has been designed with ease of use in mind.
-- [KhronosGroup/OpenGL-Registry](https://github.com/KhronosGroup/OpenGL-Registry), OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry.
-- [Emscripten](https://emscripten.org), Toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins.
-
 ### Resources and Links
 
+- [What raylib uses?](https://github.com/raysan5/raylib/wiki/raylib-dependencies)
 - [raylib Official Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
 - [raylib Official examples](https://www.raylib.com/examples.html)
 - [raylib Official Wiki](https://github.com/raysan5/raylib/wiki)
