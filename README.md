@@ -91,7 +91,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Deprecated/Removed/Unknown bindings
 
-- [dtcristo/raylib-rust](https://github.com/dtcristo/raylib-rust), Rust bindings for raylib, a simple and easy-to-use library to learn videogames programming.
+- [dtcristo/raylib-rust](https://github.com/dtcristo/raylib-rust), Rust bindings for raylib, Removed from bindings list after request from it's dev for being old.
+- [rjopek/hb-raylib](https://github.com/rjopek/hb-raylib), Harbour bindings for raylib, Suddenly disappeared from GitHub with no reason!
 
 > NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
