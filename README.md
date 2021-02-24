@@ -121,6 +121,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Examples by community
 
+- [Delvix000/RaylibErosionStandalone](https://github.com/Delvix000/RaylibErosionStandalone), Graphics demo with that features a procedural tropical island and some cool stuff like real-time erosion simulation, reflective-refractive water and animated day/night skybox!
 - [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples), Collection of raylib code examples - For learning the C language with 2D and 3D games.
 - [ChrisDill/Raylib-cs-Examples](https://github.com/ChrisDill/Raylib-cs-Examples), C# examples for raylib-cs.
 - [SasLuca/rayfork-tests](https://github.com/SasLuca/rayfork-tests), Collection of examples written in rayfork that also serve as tests.
