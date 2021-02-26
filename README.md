@@ -1,4 +1,4 @@
-# awesome-raylib
+# Awesome raylib
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
