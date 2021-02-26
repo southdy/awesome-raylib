@@ -1,6 +1,5 @@
 # awesome-raylib
 
-[![raylib logo](https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_256x256.png)](https://raylib.com)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-to-use library to enjoy videogames programming.
